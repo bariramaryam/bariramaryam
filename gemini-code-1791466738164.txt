@@ -1,0 +1,35 @@
+TASK
+Build my complete animated GitHub profile README package for username "bariramaryam". Use the attached id.png for every portrait and right_pointing.png for the connect section. Preserve those exact images and their alpha.
+
+PERSONAL DETAILS
+- Name: Barira Maryam
+- GitHub: bariramaryam
+- Role: Founder & Lead SaaS Architect @ Bixon AI Systems
+- Location: Karachi, Pakistan
+- Pitch: Architecting full-stack SaaS platforms and zero-latency autonomous AI workflows.
+- Roles: AI Automation Engineer | Full-Stack SaaS Developer | n8n Workflow Architect | Solutions Engineer
+- Stack: Next.js, React, TypeScript, Node.js, PostgreSQL, Prisma, n8n, Webhooks, REST APIs, Vapi, GoHighLevel
+- Projects:
+  1. BIXON AI OS (Proprietary business automation & agent dashboard) - https://bariraportfolio.lovable.app
+  2. ALSONS WORKFORCE (Enterprise field management platform with geofencing & RBAC)
+  3. Real Estate Speed-to-Lead Engine (Automated n8n & WhatsApp qualification pipeline)
+- Socials:
+  - LinkedIn: https://www.linkedin.com/in/bariramaryam21/
+  - Portfolio: https://bariraportfolio.lovable.app
+  - Email: mailto:bariramaryam2007@gmail.com
+
+ART DIRECTION
+Create a bold, polished design with deep navy #070b16, electric blue #247bff, crimson #ff354f, and off-white text. Use oversized display typography, rounded cards, subtle dot texture, and hairline borders.
+
+BUILD THESE SVG FILES IN assets/
+1. assets/hero.svg: Typed greeting, large rising-mask name reveal ("Barira Maryam"), 4 cycling roles, one-line pitch, portrait (id.png), and Karachi/Bixon AI Systems row.
+2. assets/about-life.svg: Capabilities beside a 3-slide interests/focus carousel changing every 4 seconds.
+3. assets/stack.svg: Tech icons on tilted elliptical orbits plus grouped stack chips (Next.js, TypeScript, PostgreSQL, Prisma, n8n, Vapi).
+4. assets/id-dashboard.svg: Hanging lanyard ID with subtle pendulum motion (+/-1.7 deg), showing verified role and stats.
+5. assets/connect.svg: right_pointing.png on the left, social cards on the right.
+
+GITHUB-SAFE IMPLEMENTATION
+Self-contained SVGs, inline PNGs as base64, SMIL+CSS only (no JavaScript, no foreignObject).
+
+OUTPUT
+Provide all 5 SVGs in an assets/ directory along with the final README.md.
