@@ -1,68 +1,35 @@
-# Hi, I'm Barira Maryam 👋
+TASK
+Build my complete animated GitHub profile README package for username "bariramaryam". Use the attached id.png for every portrait and right_pointing.png for the connect section. Preserve those exact images and their alpha.
 
-🚀 Founder @ BIXON Systems AI  
-🤖 AI Automation Specialist  
-⚡ Building AI-powered systems that automate workflows and help businesses scale smarter.
+PERSONAL DETAILS
+- Name: Barira Maryam
+- GitHub: bariramaryam
+- Role: Founder & Lead SaaS Architect @ Bixon AI Systems
+- Location: Karachi, Pakistan
+- Pitch: Architecting full-stack SaaS platforms and zero-latency autonomous AI workflows.
+- Roles: AI Automation Engineer | Full-Stack SaaS Developer | n8n Workflow Architect | Solutions Engineer
+- Stack: Next.js, React, TypeScript, Node.js, PostgreSQL, Prisma, n8n, Webhooks, REST APIs, Vapi, GoHighLevel
+- Projects:
+  1. BIXON AI OS (Proprietary business automation & agent dashboard) - https://bariraportfolio.lovable.app
+  2. ALSONS WORKFORCE (Enterprise field management platform with geofencing & RBAC)
+  3. Real Estate Speed-to-Lead Engine (Automated n8n & WhatsApp qualification pipeline)
+- Socials:
+  - LinkedIn: https://www.linkedin.com/in/bariramaryam21/
+  - Portfolio: https://bariraportfolio.lovable.app
+  - Email: mailto:bariramaryam2007@gmail.com
 
----
+ART DIRECTION
+Create a bold, polished design with deep navy #070b16, electric blue #247bff, crimson #ff354f, and off-white text. Use oversized display typography, rounded cards, subtle dot texture, and hairline borders.
 
-## 💡 About Me
+BUILD THESE SVG FILES IN assets/
+1. assets/hero.svg: Typed greeting, large rising-mask name reveal ("Barira Maryam"), 4 cycling roles, one-line pitch, portrait (id.png), and Karachi/Bixon AI Systems row.
+2. assets/about-life.svg: Capabilities beside a 3-slide interests/focus carousel changing every 4 seconds.
+3. assets/stack.svg: Tech icons on tilted elliptical orbits plus grouped stack chips (Next.js, TypeScript, PostgreSQL, Prisma, n8n, Vapi).
+4. assets/id-dashboard.svg: Hanging lanyard ID with subtle pendulum motion (+/-1.7 deg), showing verified role and stats.
+5. assets/connect.svg: right_pointing.png on the left, social cards on the right.
 
-I specialize in:
-- AI Workflow Automation
-- AI Agents
-- Voice AI Solutions
-- Business Process Automation
-- Lead Funnel Systems
-- CRM Automations
-- Smart Business Systems
+GITHUB-SAFE IMPLEMENTATION
+Self-contained SVGs, inline PNGs as base64, SMIL+CSS only (no JavaScript, no foreignObject).
 
-Currently building intelligent automation systems using n8n and AI integrations.
-
----
-
-## 🛠 Tech & Tools
-
-- n8n
-- AI Agents
-- Workflow Automation
-- Google Sheets Automation
-- API Integrations
-- CRM Systems
-- SaaS Development
-- Business Automation
-
----
-
-## 📌 Featured Projects
-
-### 🤖 AI Tutor Workflow
-Built an AI tutor using n8n + Gemini AI with:
-- AI memory
-- Google Sheets integration
-- Web search capabilities
-
-### ⚡ AI Business Agent
-Automation system that:
-- Manages Google Calendar
-- Sends automated emails
-- Handles workflow automation
-
-### 📩 Event Registration Automation
-Automated:
-- Form handling
-- Email confirmations
-- Data organization workflows
-
----
-
-## 🌍 Connect With Me
-
-🔗 LinkedIn:
-https://www.linkedin.com/in/bariramaryam21/
-
-🌐 Portfolio:
-https://bariraportfolio.lovable.app
-
-📧 Email:
-bariramaryam2007@gmail.com
+OUTPUT
+Provide all 5 SVGs in an assets/ directory along with the final README.md.
